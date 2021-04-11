@@ -14,7 +14,7 @@ let out9 = document.querySelector('.out9')
 let out10 = document.querySelector('.out10')
 
 let url = 'https://api.quran.sutanlab.id/surah'
-let url2 = 'http://mp3quran.net/api/_english.php'
+let url2 = 'httpس://mp3quran.net/api/_english.php'
 
 
 
